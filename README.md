@@ -48,7 +48,7 @@ Jusoor (جسور, "bridges") is an AI-powered community execution platform. It c
 * AI-powered requirement analysis and skill matching
 
 ## Team 24
-* باسل فالح سليم الزايدي الجهني (team leader)
+* باسل فالح سليم الزايدي الجهني
 * سنا أحمد محمد الصلاحي
 * لينه عبدالله سليمان المزيني
 * شهد عيسى عبدالعزيز الحجيلي
