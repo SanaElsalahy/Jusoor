@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.jpg" width="220" alt="Jusoor logo"/>
+<img src="assets/1-logo.jpg" width="220" alt="Jusoor logo"/>
 
 # جسور | Jusoor
 ### من المهارة إلى الأثر | From skill to impact
@@ -8,7 +8,7 @@
 ![Barmajan Al-Madinah 2026](https://img.shields.io/badge/Barmajan%20Al--Madinah%202026-2nd%20place-silver)
 ![Track](https://img.shields.io/badge/track-Community%20Participation-green)
 
-**[Live demo](https://jusoor-impact.lovable.app)** | **[Walkthrough video](assets/demo.mp4)**
+**[Live demo](https://jusoor-impact.lovable.app)** | **[Walkthrough video](assets/4-demo.mp4)**
 
 </div>
 
@@ -39,7 +39,7 @@ Jusoor (جسور, "bridges") is an AI-powered community execution platform. It c
 | Track progress | Earn certificates, points and a rating |
 
 ## Screenshots
-<img src="assets/landing.jpg" width="48%"/> <img src="assets/dashboard.jpg" width="48%"/>
+<img src="assets/2-landing.jpg" width="48%"/> <img src="assets/3-dashboard.jpg" width="48%"/>
 
 > The numbers and the sample user shown are demo data from the hackathon prototype, not real usage.
 
